@@ -11,8 +11,8 @@
   "handPosition" : [0, -1],
   "firePosition" : [20, 1.5],
   "level" : 1,
-  "fireTime" : 0.65,
-  "twoHanded" : true,
+  "fireTime" : 0.30,
+  "twoHanded" : false,
 
   "fireOnRelease" : true,
   "walkWhileFiring" : true,
@@ -23,7 +23,7 @@
   "projectile" : {
     "speed" : 60,
     "speedCurve" : "drawTimeMultiplier",
-    "power" : 100,
+    "power" : 1,
     "powerCurve" : "drawTimeMultiplier",
     "color" : [10, 255, 10]
   },
