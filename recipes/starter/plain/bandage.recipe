@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "dirtmaterial", "count" : 4 }
+  ],
+  "output" : {
+    "item" : "bandage",
+    "count" : 10
+  },
+  "groups" : [ "plain", "all", "other" ]
+}

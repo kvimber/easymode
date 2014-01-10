@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "dirtmaterial", "count" : 1 }
+  ],
+  "output" : { "item" : "cookedalienmeat", "count" : 10 },
+  "groups" : [ "cooking", "consumables", "all" ]
+}
