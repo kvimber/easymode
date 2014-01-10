@@ -1,0 +1,8 @@
+{
+  "itemName" : "coalore",
+  "rarity" : "Common",
+  "inventoryIcon" : "coalore.png",
+  "description" : "It's coal. Best fuel EVAR.",
+  "shortdescription" : "Coal",
+  "fuelAmount" : 100
+}

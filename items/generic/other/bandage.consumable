@@ -1,0 +1,14 @@
+{
+  "itemName" : "bandage",
+  "rarity" : "Common",
+  "inventoryIcon" : "bandage.png",
+  "description" : "A bandage. It heals all",
+  "shortdescription" : "Bandage FTW!",
+  "effects" : [ [
+      {
+        "kind" : "bandage",
+        "amount" : 20
+      }
+    ] ],
+  "emote" : "angry"
+}
